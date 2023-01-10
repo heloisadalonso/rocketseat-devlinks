@@ -54,6 +54,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 <p align="center">
   <img alt="projeto DevLinks" src=".github/lightmode-desktop.png" width="100%">
 </p>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
